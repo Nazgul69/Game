@@ -1,1 +1,31 @@
+CHARACTER - Nazgul/Vorlonos
 
+- Prepare the character of Alieth
+-- Match Mesh to the Skeleton
+--- Add new anims
+
+WORLD - Nazgul
+- Finish starting portal position
+- Prepare first small Village
+- Add sounds to Enviroment
+- Polish the island
+
+AUDIO - Nazgul
+- Prepare sounds for various character movement
+- Prepare portal audio
+- Prepare enviroment audio
+
+QUEST - Vorlonos/Nazgul
+- Design main questline
+-- Design first quest
+--- Design tutorial
+
+PROGRAMMING - Vorlonos
+- Add moving platforms
+- Add first enemy
+-- Find 3d model of enemy
+--- We will see what next
+- Design character movement
+-- Add jump, crouch, crawl, attack light/heavy, dodge
+- Add collisions to world
+-- Add collisions to water
